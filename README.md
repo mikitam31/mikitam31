@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikitam31
-- 👀 I’m interested in Ruby on Rails, Node.js, React.js and Javascript
+- 👀 I’m interested in Ruby on Rails, Python, Node.js, React.js and Javascript
 - 🌱 I’m currently learning Golang, Rust
 - 💞️ I’m looking to collaborate on anything
 
